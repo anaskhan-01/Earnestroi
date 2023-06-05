@@ -1,1 +1,10 @@
-{}
+{
+  "ans@admin.com": {
+    "name": "Anas",
+    "password": "$2b$10$nBWQ5lBj2rjVC0zKxc057.flHxKaSDoeFlCtZv4rdEvBsjkCknLoe"
+  },
+  "s@admin.com": {
+    "name": "An",
+    "password": "$2b$10$3Mk9XhhKW4V.Ydb6aZ1GdewjalXLJDIyKM.6760bx.3dUQmNAm7CO"
+  }
+}

@@ -2,9 +2,9 @@
   "name": "earnestroi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx tsc && node dist/index"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +15,8 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "bcrypt": "^5.1.0",
     "express": "^4.18.2"
   }
 }
